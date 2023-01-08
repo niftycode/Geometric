@@ -16,6 +16,7 @@ build/
 html/
 cmake-build-debug/
 CMakeFiles
+.cache
 
 ################################
 ############ C/C++ #############
