@@ -4,6 +4,10 @@
 *.pptx
 *.pdf
 .DS_Store
+compile_commands.json
+cmake_install.cmake
+CMakeCache.txt
+Makefile
 
 ################################
 ########### FOLDERS ############
@@ -11,6 +15,7 @@
 build/
 html/
 cmake-build-debug/
+CMakeFiles
 
 ################################
 ############ C/C++ #############
